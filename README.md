@@ -2,7 +2,7 @@
 ## 製品
 - [WSA with Gapps Japanese(アーカイブ)](https://aiitscience.github.io/WSA-with-Gapps-Japanese/)
 - [Stable Diffusion Web UI Japanese(開発中)](https://aiitscience.github.io/Stable-Diffusion-Web-UI-Japanese/)
-- [MMVC_Trainer(開発中)](https://github.com/AIITScience/MMVC_Trainer)
+- [MMVC_Trainer(開発中)](https://aiitscience.github.io/MMVC_Trainer/)
 
 ## AI List
 - [Gemini](https://play.google.com/store/apps/details?id=com.google.android.apps.bard)
