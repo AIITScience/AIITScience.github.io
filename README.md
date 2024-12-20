@@ -1,7 +1,7 @@
 どうもAI研究人です。[![Static Badge](https://img.shields.io/badge/YouTube-red?logo=youtube)](http://www.youtube.com/@AIITScience)垢があるので登録お願いします。一応「AI」研究人ですが、AIに関連しないソフトも作っていきます。
 ## 製品
 - [WSA with Gapps Japanese(アーカイブ)](https://aiitscience.github.io/WSA-with-Gapps-Japanese/)
-- [Bat To Exe Converter](https://aiitscience.github.io/Bat_To_Exe_Converter/)
+- [Bat To Exe Converter(アーカイブ)](https://aiitscience.github.io/Bat_To_Exe_Converter/)
 - [MMVC_Trainer](https://aiitscience.github.io/MMVC_Trainer/)
 
 ## AI List
