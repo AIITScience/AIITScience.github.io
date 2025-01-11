@@ -1,5 +1,5 @@
 どうもAI研究人です。一応「AI」研究人ですが、AIに関連しないソフトも作っていきます。
-## 製品
+## Products
 - [<img src="https://github.com/user-attachments/assets/a3b3d15f-01ee-48d2-af16-0ef9dc456aef" alt="WSA" width="20" height="20">WSA with Gapps Japanese(アーカイブ)](https://aiitscience.github.io/WSA-with-Gapps-Japanese/)
 - [<img width="20" height="20" alt="battoexe" src="https://github.com/user-attachments/assets/e8a06c22-b489-43f0-8158-db793b421609">
 Bat To Exe Converter](https://aiitscience.github.io/Bat_To_Exe_Converter/)
@@ -10,9 +10,16 @@ Bat To Exe Converter](https://aiitscience.github.io/Bat_To_Exe_Converter/)
 - [Gemini](https://play.google.com/store/apps/details?id=com.google.android.apps.bard)
 - ChatGPT:[Google Play ストア](https://play.google.com/store/apps/details?id=com.openai.chatgpt&hl=ja) [Microsoft Store](https://apps.microsoft.com/detail/9NT1R1C2HH7J?hl=neutral&gl=JP&ocid=pdpshare)
 - Microsoft Copilot: [Google Play Store](https://play.google.com/store/apps/details?id=com.microsoft.copilot&hl=ja) [Microsoft Store](https://apps.microsoft.com/detail/9nht9rb2f4hd?hl=ja-jp&gl=JP) [App Store](https://apps.apple.com/jp/app/microsoft-copilot/id6472538445)
-## 使用したソフト
-### Development
-### Installer
-### Publish
-
+## Uesd Stoftwares
+### To Develop App
+- [Windows Notepad(メモ帳)](https://apps.microsoft.com/detail/9msmlrh6lzf3?hl=ja-jp&gl=JP)
+- [FENIX Installer](https://fenix-pc.blog.jp/FENIX_Installer)
+- [Inno Setup](https://jrsoftware.org/isdl.php)
+- [<img width="20" height="20" alt="battoexe" src="https://github.com/user-attachments/assets/e8a06c22-b489-43f0-8158-db793b421609">
+Bat To Exe Converter](https://aiitscience.github.io/Bat_To_Exe_Converter/)
+- [![Github](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/)
+### To Make Movie
+- [Microsoft Clipchamp](https://apps.microsoft.com/detail/9p1j8s7ccwwt?hl=ja-jp&gl=JP)
+- [YouTube Studio](https://studio.youtube.com/)
+## Accounts
 [![Static Badge](https://img.shields.io/badge/Subscribe-red?logo=youtube)](http://www.youtube.com/@AIITScience) [![Static Badge](https://img.shields.io/badge/Follow-black?logo=github)](https://github.com/AIITScience) [![Static Badge](https://img.shields.io/badge/Follow-white?logo=huggingface)](https://huggingface.co/AIITScience)
