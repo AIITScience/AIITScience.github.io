@@ -10,7 +10,7 @@ Bat To Exe Converter](https://aiitscience.github.io/Bat_To_Exe_Converter/)
 - Gemini: [Google Playストア](https://play.google.com/store/apps/details?id=com.google.android.apps.bard) [App Store](https://apps.apple.com/jp/app/google-gemini/id6477489729)
 - ChatGPT:[Google Play ストア](https://play.google.com/store/apps/details?id=com.openai.chatgpt&hl=ja) [Microsoft Store](https://apps.microsoft.com/detail/9NT1R1C2HH7J?hl=neutral&gl=JP&ocid=pdpshare) [App Store](https://apps.apple.com/us/app/chatgpt/id6448311069) [.dmg](https://persistent.oaistatic.com/sidekick/public/ChatGPT.dmg)
 - Microsoft Copilot:[Google Play ストア](https://play.google.com/store/apps/details?id=com.microsoft.copilot&hl=ja) [Microsoft Store](https://apps.microsoft.com/detail/9nht9rb2f4hd?hl=ja-jp&gl=JP) [App Store](https://apps.apple.com/jp/app/microsoft-copilot/id6472538445)
-## Uesd Stoftwares
+## Used Stoftwares
 ### To Develop App
 - [Windows Notepad(メモ帳)](https://apps.microsoft.com/detail/9msmlrh6lzf3?hl=ja-jp&gl=JP)
 - [FENIX Installer](https://fenix-pc.blog.jp/FENIX_Installer)
