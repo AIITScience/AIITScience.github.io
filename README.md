@@ -5,6 +5,8 @@
 Bat To Exe Converter](https://aiitscience.github.io/Bat_To_Exe_Converter/)
 - [<img src="https://github.com/user-attachments/assets/dfd2ac86-e2a3-4876-ad2b-e552fb8eaf96" alt="MMVC" width="20" height="20">MMVC Trainer](https://aiitscience.github.io/MMVC_Trainer/)
 - [<img src="https://github.com/user-attachments/assets/c4621599-26d1-44a5-bac2-47a2bd989a25" alt="トークンローダー" width="20" height="20">トークンローダー](https://aiitscience.github.io/tokenloader-japanese/)
+- [<img src="https://github.com/user-attachments/assets/8a92bd7e-095d-443e-b5b4-7d9f89c533cf" alt="Stable Diffusion Easier" width="20" height="20">Stable Diffusion Easier](https://aiitscience.github.io/Stable-Diffusion-Easier-Japanese/)
+
 
 ## AI List
 - Gemini: [Google Playストア](https://play.google.com/store/apps/details?id=com.google.android.apps.bard) [App Store](https://apps.apple.com/jp/app/google-gemini/id6477489729)
