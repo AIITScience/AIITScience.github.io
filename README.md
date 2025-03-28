@@ -11,7 +11,7 @@ Bat To Exe Converter](https://aiitscience.github.io/Bat_To_Exe_Converter/)
 - ChatGPT:[Google Play ストア](https://play.google.com/store/apps/details?id=com.openai.chatgpt&hl=ja) [Microsoft Store](https://apps.microsoft.com/detail/9NT1R1C2HH7J?hl=neutral&gl=JP&ocid=pdpshare) [App Store](https://apps.apple.com/us/app/chatgpt/id6448311069) [.dmg](https://persistent.oaistatic.com/sidekick/public/ChatGPT.dmg)
 - Microsoft Copilot:[Google Play ストア](https://play.google.com/store/apps/details?id=com.microsoft.copilot&hl=ja) [Microsoft Store](https://apps.microsoft.com/detail/9nht9rb2f4hd?hl=ja-jp&gl=JP) [App Store](https://apps.apple.com/jp/app/microsoft-copilot/id6472538445)
 - [<img src="https://github.com/user-attachments/assets/8a92bd7e-095d-443e-b5b4-7d9f89c533cf" alt="Stable Diffusion Easier" width="20" height="20">Stable Diffusion Easier](https://aiitscience.github.io/Stable-Diffusion-Easier-Japanese/)
-− [<img src="https://github.com/user-attachments/assets/dfd2ac86-e2a3-4876-ad2b-e552fb8eaf96" alt="MMVC" width="20" height="20">MMVC Trainer](https://aiitscience.github.io/MMVC_Trainer/)
+- [<img src="https://github.com/user-attachments/assets/dfd2ac86-e2a3-4876-ad2b-e552fb8eaf96" alt="MMVC" width="20" height="20">MMVC Trainer](https://aiitscience.github.io/MMVC_Trainer/)
 ## Used Stoftwares
 ### To Develop App
 - [Windows Notepad(メモ帳)](https://apps.microsoft.com/detail/9msmlrh6lzf3?hl=ja-jp&gl=JP)
