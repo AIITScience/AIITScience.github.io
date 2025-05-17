@@ -5,13 +5,13 @@
 Bat To Exe Converter](https://aiitscience.github.io/Bat_To_Exe_Converter/)
 - [<img src="https://github.com/user-attachments/assets/dfd2ac86-e2a3-4876-ad2b-e552fb8eaf96" alt="MMVC" width="20" height="20">MMVC Trainer](https://aiitscience.github.io/MMVC_Trainer/)
 - [<img src="https://github.com/user-attachments/assets/c4621599-26d1-44a5-bac2-47a2bd989a25" alt="トークンローダー" width="20" height="20">トークンローダー](https://aiitscience.github.io/tokenloader-japanese/)
-- [<img src="https://github.com/user-attachments/assets/8a92bd7e-095d-443e-b5b4-7d9f89c533cf" alt="Stable Diffusion Easier" width="20" height="20">Stable Diffusion Easier(2025年4月12日にサポート終了)](https://aiitscience.github.io/Stable-Diffusion-Easier-Japanese/)
+- [<img src="https://github.com/user-attachments/assets/8a92bd7e-095d-443e-b5b4-7d9f89c533cf" alt="Stable Diffusion Easier" width="20" height="20">stable-diffusion-webui](https://aiitscience.github.io/stable-diffusion-webui-japanese/)
 - [<img src="https://github.com/user-attachments/assets/4addc6f1-fa63-41cc-826c-6b3f01cffbc4" alt="PythonChatBot" width="20" height="20">PythonChatBot](https://aiitscience.github.io/PythonChatbot/)
 ## AI List
 - Gemini: [Google Playストア](https://play.google.com/store/apps/details?id=com.google.android.apps.bard) [App Store](https://apps.apple.com/jp/app/google-gemini/id6477489729)
 - ChatGPT:[Google Play ストア](https://play.google.com/store/apps/details?id=com.openai.chatgpt&hl=ja) [Microsoft Store](https://apps.microsoft.com/detail/9NT1R1C2HH7J?hl=neutral&gl=JP&ocid=pdpshare) [App Store](https://apps.apple.com/us/app/chatgpt/id6448311069) [.dmg](https://persistent.oaistatic.com/sidekick/public/ChatGPT.dmg)
 - Microsoft Copilot:[Google Play ストア](https://play.google.com/store/apps/details?id=com.microsoft.copilot&hl=ja) [Microsoft Store](https://apps.microsoft.com/detail/9nht9rb2f4hd?hl=ja-jp&gl=JP) [App Store](https://apps.apple.com/jp/app/microsoft-copilot/id6472538445)
-- [<img src="https://github.com/user-attachments/assets/8a92bd7e-095d-443e-b5b4-7d9f89c533cf" alt="Stable Diffusion Easier" width="20" height="20">Stable Diffusion Easier](https://aiitscience.github.io/Stable-Diffusion-Easier-Japanese/)
+- [<img src="https://github.com/user-attachments/assets/8a92bd7e-095d-443e-b5b4-7d9f89c533cf" alt="Stable Diffusion Easier" width="20" height="20">stable-diffusion-webui](https://aiitscience.github.io/stable-diffusion-webui-japanese/)
 - [<img src="https://github.com/user-attachments/assets/dfd2ac86-e2a3-4876-ad2b-e552fb8eaf96" alt="MMVC" width="20" height="20">MMVC Trainer](https://aiitscience.github.io/MMVC_Trainer/)
 - [<img src="https://github.com/user-attachments/assets/4addc6f1-fa63-41cc-826c-6b3f01cffbc4" alt="PythonChatBot" width="20" height="20">PythonChatBot](https://aiitscience.github.io/PythonChatbot/)
 ## Used Stoftwares
